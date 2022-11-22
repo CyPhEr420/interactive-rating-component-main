@@ -24,7 +24,8 @@ button {
 }
 
 h1 {
-  color: #fff;
+  color: rgb(237, 237, 237);
+  font-size: 1.5rem;
 }
 
 p {
@@ -51,7 +52,7 @@ p {
 .thanks-card {
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 30px;
 }
 .thanks-card {
   display: none;
